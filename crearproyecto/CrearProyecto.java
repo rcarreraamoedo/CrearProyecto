@@ -16,6 +16,7 @@ public class CrearProyecto {
      */
     public static void main(String[] args) {
         System.out.println("Como estas?");
+        System.out.println("Aquí haciendo pruebas con Git");
     }
     
 }
